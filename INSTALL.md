@@ -54,7 +54,7 @@ python test_app.py
 2. Войдите в свой аккаунт Яндекса
 3. Нажмите "Зарегистрировать новое приложение"
 4. Заполните форму:
-   - **Название**: MRT Pipeline
+   - **Название**: MRI Pipeline
    - **Платформа**: Веб-сервисы
    - **Callback URL**: `https://oauth.yandex.ru/verification_code`
    - **Права**: 

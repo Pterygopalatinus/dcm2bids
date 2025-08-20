@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Главный файл для запуска MRT Pipeline приложения
+Главный файл для запуска MRI Pipeline приложения
 """
 
 import sys
